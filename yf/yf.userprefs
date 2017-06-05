@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shader\C6Specfrag.shader">
+    <Files>
+      <File FileName="Assets\Shader\C5.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shader\C6Diffuse.shader" Line="6" Column="3" />
+      <File FileName="Assets\Shader\C6Perfrag.shader" Line="22" Column="3" />
+      <File FileName="Assets\Shader\C6Spec.shader" Line="20" Column="20" />
+      <File FileName="Assets\Shader\C6Specfrag.shader" Line="53" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
